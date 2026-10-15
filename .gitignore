@@ -1,0 +1,9 @@
+# Local backups
+*.backup.lua
+*.disabled
+*.bak
+*~
+
+# Editor files
+*.swp
+*.swo
